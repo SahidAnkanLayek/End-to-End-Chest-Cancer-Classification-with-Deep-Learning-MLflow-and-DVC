@@ -1,0 +1,20 @@
+tensorflow==2.12.0        # Deep learning framework
+pandas>=1.5.0,<2.0        # Data handling
+numpy>=1.23.0,<2.0        # Math / Arrays
+scipy>=1.10.0,<2.0        # Scientific computing
+
+matplotlib>=3.7.0,<4.0    # Plotting
+seaborn>=0.12.0,<1.0      # Advanced visualization
+
+mlflow==2.2.2             # Experiment tracking
+dvc>=3.0.0,<4.0           # Data Version Control
+gdown>=4.7.0,<5.0         # Google Drive dataset downloader
+
+python-box==6.0.2         # Cleaner dict access (Box class)
+pyyaml>=6.0,<7.0          # YAML config support
+tqdm>=4.65.0,<5.0         # Progress bars
+joblib>=1.3.0,<2.0        # Model saving / parallel processing
+
+Flask>=2.2,<3.0           # Backend framework
+Flask-Cors>=3.0,<4.0      # CORS for frontend clients
+
